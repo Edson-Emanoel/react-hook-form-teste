@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+input {
+  @apply bg-[#313131] outline-0 h-8 rounded-sm px-1.5;
+}
